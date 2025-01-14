@@ -52,6 +52,6 @@ The models are evaluated using the **Quadratic Weighted Kappa (QWK)** metric, wh
 
 ### 📈 Scores
 
-- **Public Score**: **0.425**
-- **Private Score**: **0.443**
+- **Public Score (lb)**: **0.425**
+- **Private Score (pb)**: **0.443**
 
